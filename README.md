@@ -22,14 +22,29 @@
 
 ## ⚡ `whoami`
 
-```yaml
-name: "Bhavay Vij"
-role: "CSE Undergraduate @ Chandigarh Group of Colleges, Landran"
-status: "Building AI-powered full stack products"
-current_focus: "LLMs, LangChain, RAG pipelines, Next.js + FastAPI"
-based_in: "Rohtak, Haryana, India 🇮🇳"
-fun_fact: "Patent Application filed on Interpersonal Emotional Synchronization"
+<div align="center">
+
+```bash
+$ whoami --verbose
 ```
+
+```json
+{
+  "user": "bhavay-vij",
+  "role": "Full Stack Developer · AI/ML Engineer",
+  "status": "🟢 online — shipping code",
+  "stack": ["Next.js", "FastAPI", "LangChain", "PyTorch"],
+  "focus": ["LLMs", "RAG Pipelines", "REST APIs", "GenAI Products"],
+  "location": "Rohtak, Haryana, IN 🇮🇳",
+  "uptime": "2+ years of building",
+  "easter_egg": "patent filed 📄 — Interpersonal Emotional Synchronization"
+}
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+compiling+ambition.exe...;%3E+status%3A+building+the+next+big+thing;%3E+process+complete+%E2%9C%94" />
+
+</div>
+
 
 <br/>
 
